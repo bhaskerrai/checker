@@ -1,3 +1,1 @@
-## A sophomore project from learnWeb3.io:
-
-https://learnweb3.io/degrees/ethereum-developer-degree/sophomore/build-an-nft-powered-fully-on-chain-dao-to-invest-in-nft-collections-as-a-group
+## An NFT-powered fully on-chain DAO to invest in NFT collections as a group
